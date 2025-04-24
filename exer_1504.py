@@ -1,0 +1,5 @@
+slamano = {
+
+}
+
+print(slamano)
